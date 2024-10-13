@@ -18,8 +18,9 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## App Screenshots :
 
-![Fully functional searchbar with debounce](image.png){: width="50%"}
-UI view
+![Fully functional searchbar with debounce](image.png)
+
+- UI view
 
 # - Key takeaways :
 
