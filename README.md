@@ -18,7 +18,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## App Screenshots :
 
-1. Fully functional searchbar with debounce ![Fully functional searchbar with debounce](image.png)
+1. Fully functional searchbar with debounce ![Fully functional searchbar with debounce](image.png){: width="50%"}
 2. UI with the glassmorphic design in the background
 
 # - Key takeaways :
