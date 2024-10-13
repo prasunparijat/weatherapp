@@ -16,8 +16,6 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
     npm start // this already has the npm run expo start as the alias
    ```
 
-## Learn more
-
 # - Key takeaways :
 
 - 1. Use native-wind - tailwindcss utility for the react-native
